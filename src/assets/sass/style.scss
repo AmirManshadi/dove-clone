@@ -72,3 +72,13 @@ body {
         family: Vazir;
     }
 }
+
+a {
+    color: inherit !important;
+}
+
+input:focus,
+button:focus,
+a:focus {
+    box-shadow: none !important;
+}

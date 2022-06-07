@@ -50,4 +50,15 @@ html,
 body {
   font-family: Vazir;
 }
+
+a {
+  color: inherit !important;
+}
+
+input:focus,
+button:focus,
+a:focus {
+  -webkit-box-shadow: none !important;
+          box-shadow: none !important;
+}
 /*# sourceMappingURL=style.css.map */
