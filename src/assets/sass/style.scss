@@ -79,6 +79,7 @@ a {
 
 input:focus,
 button:focus,
-a:focus {
+a:focus,
+textarea:focus {
     box-shadow: none !important;
 }

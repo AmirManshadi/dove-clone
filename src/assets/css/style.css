@@ -57,7 +57,8 @@ a {
 
 input:focus,
 button:focus,
-a:focus {
+a:focus,
+textarea:focus {
   -webkit-box-shadow: none !important;
           box-shadow: none !important;
 }
